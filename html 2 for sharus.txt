@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Radiant Touch Beauty Parlour</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <div class="logo">Radiant Touch</div>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="booking.html">Book Appointment</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>Welcome to Radiant Touch</h1>
+    <p>Premium beauty care & salon services</p>
+    <a href="booking.html" class="cta-btn">Book Now</a>
+  </section>
+
+  <section class="services-preview">
+    <h2>Our Top Services</h2>
+    <div class="service-grid">
+      <div class="service-card">
+        <h3>Facials</h3>
+        <p>Deep cleansing and glowing skin treatments</p>
+      </div>
+      <div class="service-card">
+        <h3>Hair Styling</h3>
+        <p>Latest trends in cuts, colors, and styles</p>
+      </div>
+      <div class="service-card">
+        <h3>Bridal Makeup</h3>
+        <p>Make your big day perfect with our experts</p>
+      </div>
+    </div>
+    <a href="services.html" class="view-more">View All Services</a>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Radiant Touch Beauty Parlour</p>
+  </footer>
+
+  <!-- Tidio Chat Widget -->
+  <script src="//code.tidio.co/your_tidio_key.js" async></script>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>About Us - Radiant Touch</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <div class="logo">Radiant Touch</div>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="booking.html">Book Appointment</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h1>About Us</h1>
+      <p>At Radiant Touch, we believe beauty is personal. With over a decade of experience, our salon offers luxury beauty services tailored to every individual. We combine skill, passion, and premium products to bring out your best look.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Radiant Touch Beauty Parlour</p>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Services - Radiant Touch</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <div class="logo">Radiant Touch</div>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="booking.html">Book Appointment</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h1>Our Services</h1>
+    <ul>
+      <li>Facials – ₹1200</li>
+      <li>Hair Styling – ₹800</li>
+      <li>Hair Color – ₹1500</li>
+      <li>Bridal Makeup – ₹5000</li>
+      <li>Waxing – ₹500</li>
+      <li>Manicure & Pedicure – ₹1000</li>
+    </ul>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Radiant Touch Beauty Parlour</p>
+  </footer>
+</body>
+</html>
